@@ -16,3 +16,10 @@ class FalseClass
     "cannot"
   end
 end
+
+def can
+  true
+end
+def cannot
+  false
+end
